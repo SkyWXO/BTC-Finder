@@ -1,3 +1,3 @@
 # BTC-Finder/Stealer
 Generate wallet seeds, check balance, collect
-run build.exe to start the BTC Stealer. If a balance is found it will collect funds. 
+Run with build.exe to start the BTC Stealer. Generate random bitcoin wallets & private keys (seeds) and then check if they match any wallet that has a positive balance, and then take all the btc from it.
